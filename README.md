@@ -26,7 +26,7 @@ On systems with the Bitrix environment installed, a cron job runs every Saturday
 - **Тип:** Локальное повышение привилегий (LPE).  
 - **LPE:** В задании root пользователя (`/etc/crontab`) запускается `/opt/webdir/bin/bx-dehydrated`, который вызывает `/home/bitrix/dehydrated/dehydrated`. Выполняемый скрипт (`/home/bitrix/dehydrated/dehydrated`) редактируемый веб‑пользователем `bitrix`.  
 - **User?** `bitrix → root`.  
-- **Соответствующий CWE:** CWE-732 — Incorrect Permission Assignment.�
+- **Соответствующий CWE:** CWE-732 — Incorrect Permission Assignment.
 
 ### Описание 🔒
 
