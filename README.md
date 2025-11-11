@@ -1,4 +1,4 @@
-# 0-day local privilege escalation in a Bitrix environment  🔥
+# 0-day local privilege escalation in a Bitrix environment
 ### Local privilege escalation through an editable certificate-update script in a Bitrix environment
 ---
 
@@ -17,7 +17,7 @@ On systems with the Bitrix environment installed, a cron job runs every Saturday
 
 ---
 
-### Локальное повышение привилегий через редактируемый скрипт обновления сертификатов в окружении Bitrix 🔥
+### Локальное повышение привилегий через редактируемый скрипт обновления сертификатов в окружении Bitrix
 
 ---
 
