@@ -1,4 +1,4 @@
-# 0-day local privilege escalation in a Bitrix environment
+# 0-day local privilege escalation in Bitrix environment
 ### Local privilege escalation through an editable certificate-update script in a Bitrix environment
 ---
 
